@@ -9,7 +9,7 @@
 
 ### <img src="https://github.com/Vitorsilveira31/Vitorsilveira31/blob/master/assets/flying_cat.gif" width="50vw"/> A little more about me:
 
-- <img src="https://github.com/Vitorsilveira31/Vitorsilveira31/blob/master/assets/coin.gif" width="20vw" alt="Coin spinning"/> I’m an Mobile Engineer
+- <img src="https://github.com/Vitorsilveira31/Vitorsilveira31/blob/master/assets/coin.gif" width="20vw" alt="Coin spinning"/> I’m a mobile engineer
 - <img src="https://github.com/Vitorsilveira31/Vitorsilveira31/blob/master/assets/gandalf_parrot.gif" width="20vw" alt="Gandalf parrot"/> I'm learning C++ to create games with Unreal Engine
 - <img src="https://github.com/Vitorsilveira31/Vitorsilveira31/blob/master/assets/powerup.gif" width="20vw" alt="Power up spinning"/> Ending post graduation
 - <img src="https://github.com/Vitorsilveira31/Vitorsilveira31/blob/master/assets/kirby.gif" width="20vw" alt="Kirby dancing"/> Fun fact: I make unfunny jokes and speak very loudly
